@@ -1,6 +1,6 @@
 # FastAPI + Elasticsearch + MongoDB Demo
 
-A simple product search API built using FastAPI, MongoDB (source of truth), and Elasticsearch (search engine).
+A simple product search API built using FastAPI, MongoDB, and Elasticsearch (search engine).
 
 ## Features
 
